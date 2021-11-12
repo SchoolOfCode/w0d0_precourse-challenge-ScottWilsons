@@ -1,0 +1,35 @@
+html{
+  font-size: 15px;
+}
+body 
+{
+  font-family: georgia;
+  text-align: center;
+  background-color: #d9d9d9;
+  color: #800;
+  line-height: 1.5;
+  margin: 0;
+}
+#image {
+  max-width: 40%;
+  display: block; 
+  height: auto;
+  margin: 0 auto;
+  border: 3px solid black;
+  padding: 25px;
+  }
+#tribute-info
+{
+  margin: 0 auto;
+  text-align: center;
+  max-width: 40%;
+  border: 3px solid black;
+  padding: 10px;
+ }
+
+li {
+  margin: 16px 0;
+}
+h1 {
+  font-size: 3rem;
+}
